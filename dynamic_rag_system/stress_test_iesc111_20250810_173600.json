@@ -1,0 +1,72 @@
+{
+  "test_info": {
+    "pdf_file": "/Users/umangagarwal/Downloads/iesc1dd/iesc111.pdf",
+    "pdf_size_mb": 1.9581241607666016,
+    "pdf_pages": 14,
+    "test_timestamp": "20250810_173600",
+    "total_chunks": 14
+  },
+  "quality_scores": {},
+  "chunk_summary": [
+    {
+      "chunk_id": "contextual_11.1_1_923ea85d",
+      "content_length": 3910,
+      "quality_score": 0.78,
+      "type": "unknown"
+    },
+    {
+      "chunk_id": "contextual_11.2_1_0147da62",
+      "content_length": 1214,
+      "quality_score": 0.58,
+      "type": "unknown"
+    },
+    {
+      "chunk_id": "contextual_2.1_1_5ce70f85",
+      "content_length": 1989,
+      "quality_score": 0.58,
+      "type": "unknown"
+    },
+    {
+      "chunk_id": "contextual_2.2_1_4489d772",
+      "content_length": 5059,
+      "quality_score": 0.65,
+      "type": "unknown"
+    },
+    {
+      "chunk_id": "contextual_11.1_1_fcadaad2",
+      "content_length": 2606,
+      "quality_score": 0.58,
+      "type": "unknown"
+    },
+    {
+      "chunk_id": "contextual_11.3_1_277c1a80",
+      "content_length": 1227,
+      "quality_score": 0.74,
+      "type": "unknown"
+    },
+    {
+      "chunk_id": "contextual_2.3_1_0b4a6da1",
+      "content_length": 1209,
+      "quality_score": 0.58,
+      "type": "unknown"
+    },
+    {
+      "chunk_id": "contextual_3.1_1_72602a8c",
+      "content_length": 1144,
+      "quality_score": 0.58,
+      "type": "unknown"
+    },
+    {
+      "chunk_id": "contextual_3.2_1_c5a2f186",
+      "content_length": 594,
+      "quality_score": 0.58,
+      "type": "unknown"
+    },
+    {
+      "chunk_id": "contextual_11.2_1_5edfb591",
+      "content_length": 684,
+      "quality_score": 0.58,
+      "type": "unknown"
+    }
+  ]
+}
